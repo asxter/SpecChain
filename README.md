@@ -1,4 +1,4 @@
-# EECS 4312 - SpecChain: Requirements Engineering Pipeline
+#  SpecChain: Requirements  Pipeline
 
 ## Application Studied
 
